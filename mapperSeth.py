@@ -1,6 +1,6 @@
 
 
-# My name is NOT Seth Tower, but rather Raymond K Roberts
+# My name is Seth Tower, not Raymond K Roberts
 #mapper.py
 
 
